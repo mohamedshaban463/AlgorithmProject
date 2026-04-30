@@ -30,11 +30,3 @@ def max_product_of_three(A):
     option2 = max1 * min1 * min2
 
     return max(option1, option2)
-
-
-
-A = [-3, 1, 2, -2, 5, 6]
-
-result = max_product_of_three(A)
-print("Array:", A)
-print("Maximum Product of Three:", result)

@@ -32,4 +32,3 @@ def find_extremes(array, index, max1, max2, max3, min1, min2):
         
     
     return find_extremes(array, index + 1, max1, max2, max3, min1, min2)
-
