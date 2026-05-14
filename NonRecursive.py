@@ -1,4 +1,8 @@
 def max_product_of_three(A):
+    if len(array) < 3:
+        return "Error: Array must have at least 3 elements"
+
+    
     max1 = float('-inf')
     max2 = float('-inf')
     max3 = float('-inf')
