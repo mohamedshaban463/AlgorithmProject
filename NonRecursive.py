@@ -1,5 +1,5 @@
 def max_product_of_three(A):
-    if len(array) < 3:
+    if len(A) < 3:
         return "Error: Array must have at least 3 elements"
 
     
